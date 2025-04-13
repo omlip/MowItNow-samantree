@@ -10,7 +10,6 @@ import com.mowitnow.domain.model.Lawn;
 import com.mowitnow.domain.model.LawnMowingConfig;
 import com.mowitnow.domain.model.Mower;
 import com.mowitnow.domain.model.Orientation;
-import com.mowitnow.domain.model.Position;
 import com.mowitnow.domain.port.InputParser;
 
 public class FileInputParser implements InputParser {
